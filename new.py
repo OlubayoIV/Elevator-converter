@@ -1,8 +1,3 @@
-name = input("Enter programmer's name:")
-print('Hello and welcome genius:', name)
-print("My name is Ayo and i'm learning Python")
-
-
 #Get the input of the european elevator floor
 inp = input('Europe Floor?')
 
